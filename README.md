@@ -1,2 +1,1 @@
-# ondc-deeplink
-ondc-deeplink
+# deep_links
