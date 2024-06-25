@@ -64,5 +64,3 @@ The QR code maker is a user interface (UI) website offered by ONDC where provide
 | Kiko Live    | -                     | No                              |
 
 
-
-
