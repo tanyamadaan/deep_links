@@ -30,7 +30,7 @@ The QR code maker is a user interface (UI) website offered by ONDC where provide
 
 ### 1. Catalog Visibility  
 
-#### Buyer Apps Status
+#### Status of Buyer Apps 
 <table>
   <tr>
     <th>NP</th>
@@ -57,9 +57,9 @@ The QR code maker is a user interface (UI) website offered by ONDC where provide
   </tr>
 </table>
 
-#### Seller Apps Status
+#### Status of Seller Apps 
 
-| NP       | Stores Enabled        | Seller NP Dashboard Integration |
+| NP       | Stores Enabled        | Seller NP Dashboard Enabled |
 |----------|-----------------------|---------------------------------|
 | Kiko Live    | -                     | No                              |
 
