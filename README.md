@@ -30,7 +30,7 @@ The QR code maker is a user interface (UI) website offered by ONDC where provide
 
 ### 1. Catalog Visibility  
 
-
+#### Buyer Apps Status
 <table>
   <tr>
     <th>NP</th>
@@ -44,7 +44,7 @@ The QR code maker is a user interface (UI) website offered by ONDC where provide
   </tr>
   <tr>
     <td>Android</td>
-    <td>1.0.0</td>
+    <td>4.5</td>
   </tr>
   <tr>
     <td rowspan="2">Paytm</td>
@@ -57,7 +57,7 @@ The QR code maker is a user interface (UI) website offered by ONDC where provide
   </tr>
 </table>
 
-#### Seller Apps
+#### Seller Apps Status
 
 | NP       | Stores Enabled        | Seller NP Dashboard Integration |
 |----------|-----------------------|---------------------------------|
