@@ -4,9 +4,9 @@ To facilitate seamless and standardized user interactions across digital ecosyst
 
 As the first use case, ONDC proposes to enable QR code (with deep link embedded) features for merchants facilitated by their respective BPPs (Seller Apps in this context).
 
-Please refer to the detailed [concept note](https://docs.google.com/document/d/17H8gpY1U2dRiZE6DccWYRh__BuVQ2kiMxEw5ZFJ7ULo/edit) on beckn enabled deep links, which details on the deep link schema and example use cases that could be enabled.
+Please refer to the detailed [concept note](https://github.com/tanyamadaan/deep_links/blob/main/docs/Concept_paper.md) on beckn enabled deep links, which details on the deep link schema and example use cases that could be enabled.
 
-## Steps for generating QR code:
+## Seller App Integration - Steps for generating QR code:
 
 ### Install dependencies:
 
