@@ -6,7 +6,7 @@ As the first use case, ONDC proposes to enable QR code (with deep link embedded)
 
 Please refer to the detailed [concept note](https://github.com/tanyamadaan/deep_links/blob/main/docs/Concept_paper.md) on beckn enabled deep links, which details on the deep link schema and example use cases that could be enabled.
 
-## Steps for generating QR code:
+## Seller App Integration - Steps for generating QR code:
 
 ### Install dependencies:
 
