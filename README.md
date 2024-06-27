@@ -63,5 +63,33 @@ The QR code maker is a user interface (UI) website offered by ONDC where provide
 |----------|-----------------------|---------------------------------|
 | Kiko Live    | -                     | No                              |
 
+### 2. Metro Ticket Booking  
+
+#### Status of Buyer Apps 
+<table>
+  <tr>
+    <th>NP</th>
+    <th>OS</th>
+    <th>App Version</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Ease My Trip</td>
+    <td>iOS</td>
+    <td>4.5</td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>4.5</td>
+  </tr>
+
+</table>
+
+#### Status of Seller Apps 
+
+| NP       | Stores Enabled        | Seller NP Dashboard Enabled |
+|----------|-----------------------|---------------------------------|
+| Kochi Metro    | -                     | No                              |
+| Chennai Metro    | -                     | No                              |
+
 
 
