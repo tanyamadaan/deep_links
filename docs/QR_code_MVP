@@ -13,7 +13,7 @@ One of the immediate use cases for this purpose is enabling QR code for merchant
 ## Proposed Solution
 ONDC proposes to introduce beckn as an identified URI scheme and established protocol within developer community and platforms such as openJDK, Android, iOS etc.  As the first use case, ONDC proposes to enable QR code features for merchants facilitated by their respective BPPs (Seller Apps in this context).
 
-![Image 1](./1_1.png)
+![Image 1](./userjourney.png)
 
 Creating a QR code with data drafted in a deep link enabled through anchor tags of beckn in line of what UPI/ WhatsApp/XMPP have enabled, will enable the discovery of stores and their catalog on the buyer app of their choice. Consumers shall scan such QR stores visibly available on stores onboarded on ONDC through a seller app and will be offered for displaying in the store. 
  
