@@ -19,6 +19,7 @@ pip3 install -r requirements.txt
 
 ### Generate Single QR code:
 
+
 Create query string for generating single QR code based on use case
 
 ##### Catalog Access through Seller-Generated QR Codes

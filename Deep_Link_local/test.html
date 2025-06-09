@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Installation Check</title>
+</head>
+<body>
+
+    <!-- JavaScript code for checking app installation -->
+    <script>
+        function checkAppInstallation() {
+            var customUrlScheme = "beckn://ondc";
+
+            // Attempt to open the custom URL scheme
+            var iframe = document.createElement("iframe");
+            iframe.style.display = "none";
+            iframe.src = customUrlScheme;
+            document.body.appendChild(iframe);
+
+            // Set a timer to check if the app was opened
+            var timer = setTimeout(function () {
+                // This function will execute after a short delay
+                // Handle the case when the app is not installed
+                alert("App not installed");
+            }, 1000); // Adjust the timeout as needed
+        }
+
+        // Call the function to check app installation
+        checkAppInstallation();
+    </script>
+</body>
+</html>

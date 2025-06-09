@@ -3,10 +3,10 @@ from PIL import Image
 import os
 import csv
 from qr_code_generator.constants import mapping
+from qr_code_generator.textPlacement import add_store_name_to_pdf
 from pypdf import PdfWriter, PdfReader, Transformation
 from io import BytesIO
 from PIL import Image
-
 
 
 
@@ -127,3 +127,7 @@ def qr_template(qr_img):
     outputStream = open(output_pdf, "wb")
     output.write(outputStream)
     outputStream.close()
+
+    # Add store name to the PDF with QR code
+    output_pdf_with_name = f"{qr_img}_with_name.pdf"
+    add_store_name_to_pdf(output_pdf, "Store Name", output_pdf_with_name)

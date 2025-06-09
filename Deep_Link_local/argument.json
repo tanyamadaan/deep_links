@@ -1,0 +1,6 @@
+{
+    "context.bpp_id": "webapi.magicpin.in/oms_partner/ondc",
+    "message.intent.provider.id": "2877782",
+    "message.intent.provider.locations.0.id": "2877782",
+    "context.domain": "ONDC:RET11"
+}

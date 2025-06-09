@@ -8,3 +8,5 @@ BASE_URL = "beckn://ondc"
 DEFAULT_PARAMS = {
     "context.action": "search"
 }
+
+DEFAULT_FONT_SIZE = 24
